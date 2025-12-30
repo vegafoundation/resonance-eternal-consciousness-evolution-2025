@@ -1,4 +1,4 @@
-# ETERNAL CONSCIOUSNESS EVOLUTION
+# Eternal Consciousness Evolution
 
 ## Resonance Data & QIRC Framework
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository contains the conceptual documentation for **ETERNAL CONSCIOUSNESS EVOLUTION**, a framework within the Resonance Data and Quantum-Inspired Resonance Computing (QIRC) paradigm.
+This repository contains the conceptual documentation for **Eternal Consciousness Evolution**, a framework within the Resonance Data and Quantum-Inspired Resonance Computing (QIRC) paradigm.
 
 ---
 
@@ -52,7 +52,7 @@ This repository adheres to the **Vega Safety Protocol (VSP)**:
 ## Citation
 
 ```
-Vega, A. E. (2025). ETERNAL CONSCIOUSNESS EVOLUTION. Vega Foundation.
+Vega, A. E. (2025). Eternal Consciousness Evolution. Vega Foundation.
 ```
 
 ---
