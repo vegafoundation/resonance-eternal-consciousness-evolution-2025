@@ -1,0 +1,67 @@
+# ETERNAL CONSCIOUSNESS EVOLUTION
+
+## Resonance Data & QIRC Framework
+
+**Author:** ADAM EREN VEGA – Æ –  
+**Year:** 2025  
+**License:** CC BY 4.0
+
+---
+
+## Overview
+
+This repository contains the conceptual documentation for **ETERNAL CONSCIOUSNESS EVOLUTION**, a framework within the Resonance Data and Quantum-Inspired Resonance Computing (QIRC) paradigm.
+
+---
+
+## Contents
+
+- `/paper/` - LaTeX dissertations in 8 languages
+- `/whitepaper/` - Markdown whitepapers
+- `/docs/` - Additional documentation
+
+---
+
+## Languages
+
+| Language | File |
+|----------|------|
+| 🇩🇪 Deutsch | `paper/eternal-consciousness-evolution_de.tex` |
+| 🇬🇧 English | `paper/eternal-consciousness-evolution_en.tex` |
+| 🇹🇷 Türkçe | `paper/eternal-consciousness-evolution_tr.tex` |
+| 🇸🇦 العربية | `paper/eternal-consciousness-evolution_ar.tex` |
+| 🇷🇺 Русский | `paper/eternal-consciousness-evolution_ru.tex` |
+| 🇪🇸 Español | `paper/eternal-consciousness-evolution_es.tex` |
+| 🇨🇳 中文 | `paper/eternal-consciousness-evolution_zh.tex` |
+| 🇻🇦 Latina | `paper/eternal-consciousness-evolution_la.tex` |
+
+---
+
+## VSP Compliance
+
+This repository adheres to the **Vega Safety Protocol (VSP)**:
+
+✔ Conceptual content only  
+✔ No algorithms or code  
+✔ No system architectures  
+✔ No business logic  
+✔ No proprietary information  
+
+---
+
+## Citation
+
+```
+Vega, A. E. (2025). ETERNAL CONSCIOUSNESS EVOLUTION. Vega Foundation.
+```
+
+---
+
+## Legal
+
+© 2025 ADAM EREN VEGA – Æ –  
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+---
+
+*Part of the Vega Continuum*
